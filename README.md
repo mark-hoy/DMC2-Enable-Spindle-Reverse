@@ -32,3 +32,11 @@ There is also the Facebook [Shariff DMC2 users group](https://www.facebook.com/g
 ## Pictures
 Google Album at: 
 [https://photos.app.goo.gl/4f3hwRbnzF8DqHUU7](https://photos.app.goo.gl/4f3hwRbnzF8DqHUU7)
+
+<img src="images/PXL_20230929_214611056.jpg"  style="width: 80%;" alt="Mach3 Output2">
+
+<img src="images/PXL_20230929_214635419.jpg"  style="width: 80%;" alt="VLF X2 input">
+
+<img src="images/PXL_20231003_185825748.jpg"  style="width: 80%;" alt="Mach3 setting output2 active low">
+
+<img src="images/PXL_20231003_185845834.jpg"  style="width: 80%;" alt="Mach3 setting up M3 and M4">
