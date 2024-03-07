@@ -47,3 +47,6 @@ Mach3 set output2 active low.
 
 Mach3 setup M3 and M4.  
 <img src="images/PXL_20231003_185845834.jpg"  style="width: 80%;" alt="Mach3 setting up M3 and M4">
+
+Double check that your spindle spins in the correct direction. Also power everything down and back on to make sure it's all still correct.
+
